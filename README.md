@@ -10,7 +10,9 @@
 - Implement knowledge mining and document intelligence solutions
 - Implement generative AI solutions
 
-**`Official Resource:`**
+**`Resources User:`**
 [Micrsoft Learn Course](https://learn.microsoft.com/en-us/training/courses/ai-102t00)
+[Whizlabs](https://www.whizlabs.com/microsoft-azure-certification-ai-102/)
+[A Cloud Guru](https://learn.acloud.guru/search?query=AI-102&page=1)
 
 ### [Section 1: Get started with Azure AI Services](Get_started_with_Azure_AI_Services/README.md)
